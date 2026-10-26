@@ -1,0 +1,18 @@
+[submodule "NpcApi-Spigot"]
+	path = NpcApi-Spigot
+	url = https://git.trueog.net/trueog/NpcApi-Spigot
+[submodule "ParamnesticCure"]
+	path = ParamnesticCure
+	url = https://git.trueog.net/trueog/ParamnesticCure
+[submodule "sonar"]
+	path = sonar
+	url = https://git.trueog.net/trueog/sonar
+[submodule "UnlimitedNametags"]
+	path = UnlimitedNametags
+	url = https://git.trueog.net/trueog/UnlimitedNametags
+[submodule "papermc-dupe-patch"]
+	path = papermc-dupe-patch
+	url = https://git.trueog.net/trueog/papermc-dupe-patch
+[submodule "Szlaban"]
+	path = Szlaban
+	url = https://git.trueog.net/trueog/Szlaban
