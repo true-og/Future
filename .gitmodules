@@ -19,3 +19,6 @@
 [submodule "SimpleFlags-OG"]
 	path = SimpleFlags-OG
 	url = https://git.trueog.net/trueog/SimpleFlags-OG
+[submodule "RaycastedAntiESP-OG"]
+	path = RaycastedAntiESP-OG
+	url = https://git.trueog.net/trueog/RaycastedAntiESP-OG
