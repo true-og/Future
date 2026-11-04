@@ -14,5 +14,7 @@ Each component remains an independent Gitea repository and is pinned here as a s
 - [UnlimitedNametags](https://git.trueog.net/trueog/UnlimitedNametags)
 - [papermc-dupe-patch](https://git.trueog.net/trueog/papermc-dupe-patch)
 - [Szlaban](https://git.trueog.net/trueog/Szlaban)
+- [SimpleFlags-OG](https://git.trueog.net/trueog/SimpleFlags-OG)
+- [RaycastedAntiESP-OG](https://git.trueog.net/trueog/RaycastedAntiESP-OG)
 
 See each individual submodule for its license and attribution.
