@@ -16,3 +16,6 @@
 [submodule "Szlaban"]
 	path = Szlaban
 	url = https://git.trueog.net/trueog/Szlaban
+[submodule "SimpleFlags-OG"]
+	path = SimpleFlags-OG
+	url = https://git.trueog.net/trueog/SimpleFlags-OG
